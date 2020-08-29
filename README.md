@@ -3,7 +3,7 @@
 ## Starting Envirionment
 
 ```bash
-#Create the envrontment (airacer) via environment.yml
+#Create the environment (airacer) via environment.yml
 conda env create -f environment.yml
 #Activate the environment
 conda activate airacer
